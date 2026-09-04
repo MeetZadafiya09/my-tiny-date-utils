@@ -1,0 +1,26 @@
+{
+  "name": "my-tiny-date-utils",
+  "version": "1.0.0",
+  "description": "This is for testing purpose tiny date utils package",
+  "keywords": [
+    "my-tiny-date-utils"
+  ],
+  "homepage": "https://github.com/MeetZadafiya09/my-tiny-date-utils#readme",
+  "bugs": {
+    "url": "https://github.com/MeetZadafiya09/my-tiny-date-utils/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeetZadafiya09/my-tiny-date-utils.git"
+  },
+  "exports":{
+    ".":"./src/index.js"
+  },
+  "license": "Apache-2.0",
+  "author": "Meet Zadafiya",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run test"
+  }
+}
